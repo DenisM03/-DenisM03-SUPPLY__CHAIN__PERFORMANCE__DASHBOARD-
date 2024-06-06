@@ -19,7 +19,7 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 3.Create relevant insights not provided in the metric list/stakeholder meeting.  
 
 # Data Source   
-The data was provided by Codebasics as part of Codebasicsresumechallenge.These files consists of required details about customers,products and order details.
+The data was provided by Codebasics as part of Codebasicsresumechallenge.These files consists of required details about customers,products and order details.    
     1. dim_customers   
     2. dim_date  
     3. dim_products   
@@ -43,11 +43,7 @@ Excel,PowerBi
 
 ## 1.Process   
 
-1.ETL:Importing data from excel files,promoting headers and transforming data using power query.   
-2.Data Modelling  
-3.Creating Metrics using DAX based on metrics list   
-4.Dashboard Building     
-5.Finding Insights
+
 
 ## 2. Key Metrics  
 
