@@ -51,12 +51,14 @@ Excel,PowerBi
 2.KPI's   
 3.Insights
 
-## 1.Process
+## 1.Process    
+The data files are transformed into power Bi desktop using power query.A data model was built by connecting the necessary fields
+for analysis.Using DAX and measures  metric values were calaculated. Based on requirements measures are built that support the analysis.Tables and charts were created for visualization.A dashboard was created, that showcases the performance and analytics of the data.   
 
 ## 2. Key Metrics  
 
-1.Total Order Lines :
-2.Total Orders     
+1.Total Order Lines    
+2.Total Orders        
 3.LIFR%   
 4.VOFR%   
 5.OT%       
