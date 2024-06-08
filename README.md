@@ -36,17 +36,30 @@ The data was provided by Codebasics as part of Codebasicsresumechallenge.These f
 ## Tools Used   
 Excel,PowerBi 
 
-## Content   
-1.Process    
+## Business  Terminologies
+   
+1.LIFR%   -  Line Fill Rate   
+2.VOFR%   -  Volume Fill Rate  
+3.OT%     -  On Time Delivery %   
+4.IF%     -  In Full Delivery %     
+5.OTIF%   -  On Time In Full %
+
+## Content  
+1.
 2.KPI's      
-3.Insights  
-
-## 1.Process   
-
-
+3.Insights 
 
 ## 2. Key Metrics  
 
-
+1.Total Order Lines :
+2.Total Orders     
+3.LIFR%   
+4.VOFR%   
+5.OT%       
+6.IF%         
+7.OTIF%     
+8.On Time Target    
+9.In Full Target    
+10.On Time In Full Target
 
 ## 3.Insights    
