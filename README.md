@@ -47,9 +47,9 @@ Excel,PowerBi
 5.OTIF%   -  On Time In Full %
 
 ## Content   
-1.Process
-2.KPI's   
-3.Insights
+1.Process    
+2.KPI's     
+3.Insights    
 
 ## 1.Process    
 The data files are transformed into power Bi desktop using power query.A data model was built by connecting the necessary fields
