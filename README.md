@@ -32,6 +32,8 @@ The data was provided by Codebasics as part of Codebasicsresumechallenge.These f
 ![Screenshot 2024-06-06 223908](https://github.com/DenisM03/SUPPLY__CHAIN__PERFORMANCE__DASHBOARD-/assets/163861750/6317d1ab-0d0d-4854-80c8-83f8e7680c96)
 
 ## Analytical Dashboard   
+![Screenshot 2024-06-08 185441](https://github.com/DenisM03/ATLIQ__MART__SUPPLY__CHAIN__ANALYSIS/assets/163861750/6c737d93-0a86-44f6-abe6-0b8ae1480f94)
+
 
 ## Tools Used   
 Excel,PowerBi 
@@ -44,10 +46,12 @@ Excel,PowerBi
 4.IF%     -  In Full Delivery %     
 5.OTIF%   -  On Time In Full %
 
-## Content  
-1.
-2.KPI's      
-3.Insights 
+## Content   
+1.Process
+2.KPI's   
+3.Insights
+
+## 1.Process
 
 ## 2. Key Metrics  
 
