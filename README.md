@@ -53,8 +53,8 @@ Excel,PowerBi
 3.Insights    
 
 ## 1.Process    
-The data files are transformed into power Bi desktop using power query.A data model was built by connecting the necessary fields
-for analysis.Using DAX and measures  metric values were calaculated. Based on requirements measures are built that support the analysis.Tables and charts were created for visualization.A dashboard was created, that showcases the performance and analytics of the data.   
+The data files are transformed into power Bi desktop using power query. A data model was built by connecting the necessary fields for analysis. Using DAX and measures metric values were calculated. Data validation was done using excel files. Based on requirements measures were built that support the analysis. Tables and charts were created for visualization. A dashboard was created, that showcases the performance and analytics of the data.
+The results were amazing. The dashboard will help to enhance efficiency, customer satisfaction and to make Data-Driven Decisions.  
 
 ## 2. Key Metrics  
 
