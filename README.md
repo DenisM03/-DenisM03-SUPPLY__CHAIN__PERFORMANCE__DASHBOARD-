@@ -32,8 +32,7 @@ The data was provided by Codebasics as part of Codebasicsresumechallenge.These f
 ![Screenshot 2024-06-06 223908](https://github.com/DenisM03/SUPPLY__CHAIN__PERFORMANCE__DASHBOARD-/assets/163861750/6317d1ab-0d0d-4854-80c8-83f8e7680c96)
 
 ## Analytical Dashboard   
-![Untitled](https://github.com/DenisM03/ATLIQ__MART__SUPPLY__CHAIN__ANALYSIS/assets/163861750/c532ad1a-78c7-4a16-ae1c-48f48fdb1e3e)
-
+![Untitled](https://github.com/DenisM03/ATLIQ__MART__SUPPLY__CHAIN__ANALYSIS/assets/163861750/3e53eb17-62a6-458d-9cfb-fc2c0d7b99c3)
 
 
 ## Tools Used   
