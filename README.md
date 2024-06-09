@@ -68,4 +68,13 @@ for analysis.Using DAX and measures  metric values were calaculated. Based on re
 9.In Full Target    
 10.On Time In Full Target
 
-## 3.Insights    
+## 3.Insights      
+✳️ There was a  significant difference in OT%,IF%,OTIF% compared to   their target.         
+✳️ Overall average delay days was 2 days,average delay per customer  was 1.69 days.             
+✳️ Vijay stores,Propel Mart,Rel Fresh,Lotus Mart and Acclaimed Stores have higher order quantity and higher average delay days along with Coolblue and Expression Stores. 
+   This may be due to shortage of stock.   
+✳️ Vadodara city has least OT%,IF%,OTIF%,LIFR% and OTIF%.               
+✳️ Dairy products has highest orders i.e 38K orders with 10.56M of total order quantity also Dairy products has higher average delay days of 1.69 days in product category.           
+✳️ AM Milk,AM Curd,AM Butter and AM Ghee,These are the products with highest delay days  per deliver quantity.              
+✳️ OT%,IF% and OTIF% was higher in the months of  March,May and August relative to other months.              
+✳️ There is no improvement in  any of the Metrics.            
