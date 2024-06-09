@@ -1,7 +1,7 @@
 #  Insights From Supply Chain In FMCG Domain
 
 __Dashboard link__:
-<iframe title="Supply Chain Insights in FMCG Domain" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjc5MGY2NjMtZTU0YS00N2JjLWJlNmMtOTI5MDVlYmU0MzlkIiwidCI6IjUxNjk4MzNiLWUxZWItNDlkNC1iODBiLWM0MTNjOTMxMWZkYSJ9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/groups/me/reports/8a87d5e5-e3da-41d8-bdcd-9da59057268d/ReportSectionad8d5ae2ed9146000035?experience=power-bi
 
 # Problem  Statement 
 Problem Statement
